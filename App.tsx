@@ -6,7 +6,7 @@ import MovieDetailsScreen from './src/screens/MovieDetailsScreen';
 import SeatBookingScreen from './src/screens/SeatBookingScreen';
 
 const Stack = createNativeStackNavigator();
-
+// demo
 const App = () => {
   return (
     <NavigationContainer >
